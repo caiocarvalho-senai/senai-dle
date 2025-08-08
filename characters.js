@@ -101,5 +101,15 @@ export const characters = [
         origin: "Ratanabá",
         firstAppearanceYear: "???",
         fotodir: "heitor.jpg"
+    },
+    {
+        name: "Italo X",
+        gender: "Masculino",
+        type: "Velocidade",
+        corDePele:"Branco",
+        habilidades: ["Autoestima","Congelamento de Tempo"],
+        origin: "Parnaíba",
+        firstAppearanceYear: "2018",
+        fotodir: "italo.jpg"
     }
 ];
