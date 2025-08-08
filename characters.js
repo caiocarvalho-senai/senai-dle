@@ -7,7 +7,7 @@ export const characters = [
         gender: "Masculino",
         type: "Resenha",
         corDePele:"Branco",
-        habilidades: ["Programação","Resenhar"],
+        habilidades: ["Programação","Resenhar","Rock"],
         origin: "Parnaíba",
         firstAppearanceYear: 2024,
         fotodir: "caio.png"
@@ -17,7 +17,7 @@ export const characters = [
         gender: "Masculino",
         type: "Resenha",
         corDePele:"Negro",
-        habilidades: ["Irritar"],
+        habilidades: ["Irritar","Desenhos"],
         origin: "Parnaíba",
         firstAppearanceYear: 2019,
         fotodir: "raonny.jpg"
@@ -27,7 +27,7 @@ export const characters = [
         gender: "Masculino",
         type: "Resenha",
         corDePele:"Branco",
-        habilidades: ["Programação","Gnose","Jogos"],
+        habilidades: ["Programação","Gnose","Jogos","Rock","Resenhar"],
         origin: "Parnaíba",
         firstAppearanceYear: 2023,
         fotodir: "guilherme.jpg"
@@ -47,7 +47,7 @@ export const characters = [
         gender: "Masculino",
         type: "Resenha",
         corDePele:"Branco",
-        habilidades: ["Basqueteiro","Entrosamento"],
+        habilidades: ["Basqueteiro","Entrosamento","Rock"],
         origin: "Parnaíba",
         firstAppearanceYear: 2024,
         fotodir: "jefferson.jpg"
@@ -71,5 +71,35 @@ export const characters = [
         origin: "Parnaíba",
         firstAppearanceYear: "???",
         fotodir: "enzo.jpg"
+    },
+    {
+        name: "Gustavo Santos",
+        gender: "Masculino",
+        type: "Entrosa",
+        corDePele:"Branco",
+        habilidades: ["Corredor","Entrosante","Rock"],
+        origin: "Parnaíba",
+        firstAppearanceYear: "???",
+        fotodir: "gustavosantos.jpg"
+    },
+    {
+        name: "Rafael",
+        gender: "Masculino",
+        type: "Resenha",
+        corDePele:"Branco",
+        habilidades: ["Contexto","Resenhar","Rock","Basqueteiro"],
+        origin: "Parnaíba",
+        firstAppearanceYear: "???",
+        fotodir: "rafael.jpg"
+    },
+    {
+        name: "Heitor",
+        gender: "Masculino",
+        type: "Resenha",
+        corDePele:"Branco",
+        habilidades: ["Resenhar","Basqueteiro"],
+        origin: "Ratanabá",
+        firstAppearanceYear: "???",
+        fotodir: "heitor.jpg"
     }
 ];
